@@ -1,6 +1,7 @@
 
-# node express 와 nextjs 로 FRONTEND, BACKEND 구성
+# node express 와 nextjs 로 FrontEnd, BackEnd 구성
 
+### 버전 정보
 ```json
   "dependencies": {
     "antd": "^5.18.0",
@@ -11,12 +12,12 @@
 }
 ```
 
-## 라이브러리 설치
+### 라이브러리 설치
 ```bash
 npm install
 ```
 
-## 실행
+### 서비스 실행
 ```json
 "scripts": {
     "dev": "npm-run-all --parallel dev:**",
